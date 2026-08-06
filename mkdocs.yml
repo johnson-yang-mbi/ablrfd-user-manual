@@ -1,11 +1,12 @@
 ﻿site_name: ABLRFD User Manual
 nav:
-  - Home:
+  - Home: index.md
+  - Navigation:
     - Index: home/index.md
     - About: home/about.md
-    - Table of Contents: home/table-of-contents.md
-    - List of Figures: home/list-of-figures.md
-    - List of Tables: home/list-of-tables.md
+    - Table of Contents: navigation/table-of-contents.md
+    - List of Figures: navigation/list-of-figures.md
+    - List of Tables: navigation/list-of-tables.md
   - Chapter 01:
     - 1.1 Program Identification: chapter-01/1.1-program-identification.md
     - 1.2 Abbreviation: chapter-01/1.2-abbreviation.md
@@ -147,4 +148,7 @@ nav:
     - SOR-11-2019: summary-of-revisions/SOR-11-2019.md
     - SOR-12-2008: summary-of-revisions/SOR-12-2008.md
 
-theme: readthedocs
+theme:
+  name: readthedocs
+  collapse_navigation: true
+  navigation_depth: 4
