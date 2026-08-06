@@ -2,22 +2,20 @@
 nav:
   - Home: index.md
   - Navigation:
-    - Index: home/index.md
-    - About: home/about.md
     - Table of Contents: navigation/table-of-contents.md
     - List of Figures: navigation/list-of-figures.md
     - List of Tables: navigation/list-of-tables.md
-  - Chapter 01:
+  - Chapter 1 - General Description:
     - 1.1 Program Identification: chapter-01/1.1-program-identification.md
     - 1.2 Abbreviation: chapter-01/1.2-abbreviation.md
-  - Chapter 02:
+  - Chapter 2 - Program Description:
     - 2.1 General: chapter-02/2.1-general.md
     - 2.2 Substructure Types: chapter-02/2.2-substructure-types.md
     - 2.3 Footing Types: chapter-02/2.3-footing-types.md
     - 2.4 Program Functions: chapter-02/2.4-program-functions.md
     - 2.5 Loadings: chapter-02/2.5-loadings.md
     - 2.6 Assumptions and Limitations: chapter-02/2.6-assumptions-and-limitations.md
-  - Chapter 03:
+  - Chapter 3 - Method of Solution:
     - 3.1 Notation: chapter-03/3.1-notation.md
     - 3.2 Geometry: chapter-03/3.2-geometry.md
     - 3.3 Applied Load Effects: chapter-03/3.3-applied-load-effects.md
@@ -27,12 +25,12 @@ nav:
     - 3.7 Design Considerations: chapter-03/3.7-design-considerations.md
     - 3.8 Tolerances: chapter-03/3.8-tolerances.md
     - 3.9 No Solution Found: chapter-03/3.9-no-solution-found.md
-  - Chapter 04:
+  - Chapter 4 - Getting Started:
     - 4.1 Installation: chapter-04/4.1-installation.md
     - 4.2 Preparing Input: chapter-04/4.2-preparing-input.md
     - 4.3 Engineering Assistant: chapter-04/4.3-engineering-assistant.md
     - 4.4 Running the Program without Engasst: chapter-04/4.4-running-the-program-without-engasst.md
-  - Chapter 05:
+  - Chapter 5 - Input Description:
     - 5.1 Input Data Requirements: chapter-05/5.1-input-data-requirements.md
     - 5.2 Order of Commands: chapter-05/5.2-order-of-commands.md
     - 5.3 CFG Configuration Command: chapter-05/5.3-cfg-configuration-command.md
@@ -71,7 +69,7 @@ nav:
     - 5.36 OIN Output of Input Command: chapter-05/5.36-oin-output-of-input-command.md
     - 5.37 OUR Output of Results Command: chapter-05/5.37-our-output-of-results-command.md
     - 5.38 OUI Output of Intermediate Data Command: chapter-05/5.38-oui-output-of-intermediate-data-command.md
-  - Chapter 06:
+  - Chapter 6 - Detailed Input Description:
     - 6.5 CTL Control Command: chapter-06/6.5-ctl-control-command.md
     - 6.6 AT1 Abutment Type 1 Command: chapter-06/6.6-at1-abutment-type-1-command.md
     - 6.7 AT2 Abutment Type 2 Command: chapter-06/6.7-at2-abutment-type-2-command.md
@@ -96,7 +94,7 @@ nav:
     - 6.36 OIN Output of Input Command: chapter-06/6.36-oin-output-of-input-command.md
     - 6.37 OUR Output of Results Command: chapter-06/6.37-our-output-of-results-command.md
     - 6.38 OUI Output of Intermediate Data Command: chapter-06/6.38-oui-output-of-intermediate-data-command.md
-  - Chapter 07:
+  - Chapter 7 - Output Description:
     - 7.1 General Output Information: chapter-07/7.1-general-output-information.md
     - 7.2 Cover Page: chapter-07/7.2-cover-page.md
     - 7.3 Input Data: chapter-07/7.3-input-data.md
@@ -105,7 +103,7 @@ nav:
     - 7.6 Formatted Output Tables: chapter-07/7.6-formatted-output-tables.md
     - 7.7 Specification Check Warnings: chapter-07/7.7-specification-check-warnings.md
     - 7.8 Specification Check Failures: chapter-07/7.8-specification-check-failures.md
-  - Chapter 08:
+  - Chapter 8 - Example Problems:
     - 8.1 Example Problems: chapter-08/8.1-example-problems.md
     - 8.2 Example 1 Design: chapter-08/8.2-example-1-design.md
     - 8.3 Example 2 Design: chapter-08/8.3-example-2-design.md
@@ -121,32 +119,32 @@ nav:
     - 8.13 Example 12 Design: chapter-08/8.13-example-12-design.md
     - 8.14 Example 13 Design: chapter-08/8.14-example-13-design.md
     - 8.15 Example 14: chapter-08/8.15-example-14.md
-  - Chapter 09:
+  - Chapter 9 - Technical Questions and Revision Requests:
     - 9.1 Technical Questions and Revision Requests: chapter-09/9.1-technical-questions-and-revision-requests.md
   - Summary of Revisions:
-    - SOR-01-2007: summary-of-revisions/SOR-01-2007.md
-    - SOR-01-2014: summary-of-revisions/SOR-01-2014.md
-    - SOR-01-2017: summary-of-revisions/SOR-01-2017.md
-    - SOR-01-2022: summary-of-revisions/SOR-01-2022.md
-    - SOR-02-2008: summary-of-revisions/SOR-02-2008.md
-    - SOR-02-2010: summary-of-revisions/SOR-02-2010.md
-    - SOR-03-2001: summary-of-revisions/SOR-03-2001.md
-    - SOR-03-2011: summary-of-revisions/SOR-03-2011.md
-    - SOR-03-2016: summary-of-revisions/SOR-03-2016.md
-    - SOR-04-2006: summary-of-revisions/SOR-04-2006.md
-    - SOR-04-2007: summary-of-revisions/SOR-04-2007.md
-    - SOR-04-2013: summary-of-revisions/SOR-04-2013.md
-    - SOR-04-2015: summary-of-revisions/SOR-04-2015.md
-    - SOR-04-2025: summary-of-revisions/SOR-04-2025.md
-    - SOR-05-2014: summary-of-revisions/SOR-05-2014.md
     - SOR-06-1999: summary-of-revisions/SOR-06-1999.md
-    - SOR-07-2006: summary-of-revisions/SOR-07-2006.md
-    - SOR-08-2012: summary-of-revisions/SOR-08-2012.md
+    - SOR-03-2001: summary-of-revisions/SOR-03-2001.md
     - SOR-09-2003: summary-of-revisions/SOR-09-2003.md
-    - SOR-10-2023: summary-of-revisions/SOR-10-2023.md
     - SOR-11-2004: summary-of-revisions/SOR-11-2004.md
-    - SOR-11-2019: summary-of-revisions/SOR-11-2019.md
+    - SOR-04-2006: summary-of-revisions/SOR-04-2006.md
+    - SOR-07-2006: summary-of-revisions/SOR-07-2006.md
+    - SOR-01-2007: summary-of-revisions/SOR-01-2007.md
+    - SOR-04-2007: summary-of-revisions/SOR-04-2007.md
+    - SOR-02-2008: summary-of-revisions/SOR-02-2008.md
     - SOR-12-2008: summary-of-revisions/SOR-12-2008.md
+    - SOR-02-2010: summary-of-revisions/SOR-02-2010.md
+    - SOR-03-2011: summary-of-revisions/SOR-03-2011.md
+    - SOR-08-2012: summary-of-revisions/SOR-08-2012.md
+    - SOR-04-2013: summary-of-revisions/SOR-04-2013.md
+    - SOR-01-2014: summary-of-revisions/SOR-01-2014.md
+    - SOR-05-2014: summary-of-revisions/SOR-05-2014.md
+    - SOR-04-2015: summary-of-revisions/SOR-04-2015.md
+    - SOR-03-2016: summary-of-revisions/SOR-03-2016.md
+    - SOR-01-2017: summary-of-revisions/SOR-01-2017.md
+    - SOR-11-2019: summary-of-revisions/SOR-11-2019.md
+    - SOR-01-2022: summary-of-revisions/SOR-01-2022.md
+    - SOR-10-2023: summary-of-revisions/SOR-10-2023.md
+    - SOR-04-2025: summary-of-revisions/SOR-04-2025.md
 
 theme:
   name: readthedocs
