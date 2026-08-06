@@ -1,5 +1,11 @@
 site_name: ABLRFD User Manual
 nav:
-  - Home: index.md
-  - About: about.md
+  - Home:
+    - Index: home/index.md
+    - About: home/about.md
+  - Chapter 1:
+    - 1.1 Program Identification: chapter-1/1.1-program-identification.md
+  - Summary of Revisions:
+    - SOR-06-1999: summary-of-revisions/SOR-06-1999.md
+
 theme: readthedocs
