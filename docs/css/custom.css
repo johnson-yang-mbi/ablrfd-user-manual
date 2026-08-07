@@ -1,0 +1,19 @@
+/* Increase content area width */
+.wy-nav-content {
+    max-width: 1400px !important;  /* Default is 800px */
+}
+
+/* Reduce padding/margins if needed */
+.wy-nav-content {
+    padding: 1em 2em !important;  /* Adjust as needed */
+}
+
+/* Reduce line height for tighter text */
+.rst-content {
+    line-height: 1.4 !important;  /* Default is usually 1.6-1.8 */
+}
+
+/* Reduce spacing between paragraphs */
+.rst-content p {
+    margin-bottom: 0.75em !important;
+}

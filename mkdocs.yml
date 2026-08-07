@@ -150,3 +150,6 @@ theme:
   name: readthedocs
   collapse_navigation: true
   navigation_depth: 4
+
+extra_css:
+  - css/custom.css
